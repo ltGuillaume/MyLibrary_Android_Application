@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Mijn Boeken</string>
+    <string name="server_client_id">  1026175740513-kb7qoq7pj334jpqhr1q19411gdje1lpc.apps.googleusercontent.com  </string>
+    <string name="login_page_title">Mijn Boeken</string>
+    <string name="signed_out">Niet ingelogd</string>
+    <string name="signed_in_fmt">Ingelogd als: %s</string>
+    <string name="loading">Laden…</string>
+    <string name="logout">Uitloggen</string>
+
+
+    <!-- Google SearchView -->
+    <string name="search_hint_book">Boek toevoegen</string>
+
+    <!-- SearchBook Activity -->
+    <string name="empty_view_text">Geen boeken gevonden</string>
+    <string name="search_title">Zoeken</string>
+    <string name="searchBookActivity_toolbar_title">Boek toevoegen</string>
+
+    <!-- Library searchView -->
+    <string name="search_hint_book_library">Zoeken in mijn lijst</string>
+
+
+    <!--BookDetail Activity -->
+    <string name="label_title">Titel:</string>
+    <string name="label_author">Auteur:</string>
+    <string name="label_rate">Score:</string>
+    <string name="label_year">Gepubliceerd:</string>
+    <string name="label_categories">Categorieën:</string>
+    <string name="label_description">Beschrijving:</string>
+    <string name="label_comment"><![CDATA[<b> Mijn notities: </b>]]> %s</string>
+    <string name="label_isbn">ISBN:</string>
+    <string name="btn_back">Annuleren</string>
+    <string name="btn_add">Toevoegen</string>
+    <string name="bookDetailActivity_toolbar_title">Details</string>
+
+    <!--LibraryDetail Activity -->
+    <string name="label_officialRate">Online score:</string>
+    <string name="label_personalRate">Mijn score:</string>
+
+    <!--UpdateBook Activity -->
+    <string name="update">Bijwerken</string>
+    <string name="commentHint">Notities</string>
+
+
+</resources>
